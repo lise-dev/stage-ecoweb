@@ -2,8 +2,8 @@
 
 ## Parties prenantes 
 
-- Rochat lise, élève ingénieur en informatique à l'ESIROI
-- Courdier rémy, professeur en informatique à l'université de la Réunion
+- Rochat Lise, élève ingénieur en informatique à l'ESIROI
+- Courdier Rémy, professeur en informatique à l'université de La Réunion
 
 ## Contexte 
 
